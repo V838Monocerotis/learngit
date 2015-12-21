@@ -4,3 +4,5 @@ Git is free software.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 git merge
+
+git stash
